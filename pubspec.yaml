@@ -8,4 +8,4 @@ dependencies:
   benchmark_harness: '>=1.0.0 <2.0.0'
   logging: '>=0.4.3'
   dartredisclient:
-    git: git://github.com/dartist/redis_client.git
+    git: git://github.com/aralshukaili/redis_client.git
